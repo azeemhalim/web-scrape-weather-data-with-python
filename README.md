@@ -1,2 +1,2 @@
 # web-scrape-weather-data-with-python
- I'm using Python and the requests-html library to scrape weather data from Google. Specifically, I'm interested in weather data for states in Malaysia. 
+I'm using Python and the requests-html library to collect weather information from Google. Specifically, I'm focusing on weather data for different states in Malaysia. I picked requests-html because it has an easy and straightforward way of working with HTML. It lets me effortlessly extract specific details using CSS selectors, making it simple to gather the information I need.
